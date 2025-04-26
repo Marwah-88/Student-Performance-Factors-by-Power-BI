@@ -1,6 +1,6 @@
 
 
-# Student Performance Factors Project
+# Students Performance Factors Project
 
 ### Power BI Dynamic Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiMmZiM2I3NTktNTM5Zi00ZDJkLThiNjMtZGRlMzVhODg5NTk2IiwidCI6IjM0Y2JmYWYxLTY3YTYtNDc4MS1hOWNhLTUxNGViMjU1MGI2NiIsImMiOjN9
 
